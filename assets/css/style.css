@@ -19,7 +19,7 @@
     color: #ffffff;
 }
 
--header h1 {
+.header h1 {
     display: inline-block;
     font-size: 48px;
 }
@@ -28,7 +28,7 @@
     color: #d9dcd6;
 }
 
-.header nav {
+.nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,19 +36,24 @@
     font-size: 20px;
 }
 
-.header nav ul {
+.nav ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+.nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
 /* TEXT STYLES */
 
-.a {
+.nav ul li a {
     color: #ffffff;
+    text-decoration: none;
+}
+
+.nav ul li a:hover{
+    color: #918b8b;
     text-decoration: none;
 }
 

@@ -5,6 +5,7 @@
     padding: 0;
     margin: 0;
 }
+
 /* site background color*/
 .body {
     background-color: #d9dcd6;
@@ -18,15 +19,18 @@
     background-color: #2a607c;
     color: #ffffff;
 }
+
 /* Header h1 style no1*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
+
 /* Header h1 style no2*/
 .header h1 .seo {
     color: #d9dcd6;
 }
+
 /*navigation bar floating right of header*/
 .nav {
     padding-top: 15px;
@@ -85,7 +89,7 @@
 }
 
 /* MAIN */
-/* this style cover 75% of the pages */
+/* this style cover 75% of the pages and eat. */
 .main {
     width: 75%;
     display: inline-block;
@@ -112,7 +116,7 @@
 }
 
 /* SERVICES SECTIONS */
-/* this style cover 20% of the pages */
+/* this style cover 20% of the pages and etc. */
 .benefits {
     margin-right: 20px;
     padding: 20px;

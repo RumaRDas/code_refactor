@@ -4,7 +4,7 @@
 
 ## Hosting
 * It is currently hosted on Github Pages.
-Link for the site in github[https://rumardas.github.io/homeworkfor22_02/]
+* Link for the site in github[https://rumardas.github.io/code_refactor/.]
 
 ## Fil List
 * index.html

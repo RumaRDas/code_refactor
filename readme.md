@@ -4,7 +4,7 @@
 
 ## Hosting
 * It is currently hosted on Github Pages.
-* [Link for the site in github](https://rumardas.github.io/homeworkfor22_02/)
+Link for the site in github[https://rumardas.github.io/homeworkfor22_02/]
 
 ## Fil List
 * index.html
@@ -14,9 +14,9 @@
 ## Refactor
 ### index.html
 * Added the "class" inside the div tags.
-* Includ "id" in div tags.
+* Include "id" and id name in div tags.
 * Added the "alt" in img tags.
 
 ### style.css
 * Changes the class with proper name
-* Added period "." infront of ome class
+* Added period "." infront of some classes
